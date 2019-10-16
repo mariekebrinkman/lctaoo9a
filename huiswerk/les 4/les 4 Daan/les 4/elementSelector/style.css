@@ -1,0 +1,12 @@
+li {
+    font-family: fantasy;
+    color: green;
+    text-transform: lowercase;
+    text-decoration: coral;
+}
+
+header, main, footer {
+    border: 1px dotted royalblue;
+    height: 80px;
+}
+

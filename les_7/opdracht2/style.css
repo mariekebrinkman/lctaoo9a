@@ -1,0 +1,14 @@
+#blok1, #blok2 {
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+    display:inline-block;
+}
+#blok1 {
+    background-color: aqua
+}
+main {
+    text-align: center;
+    
+}

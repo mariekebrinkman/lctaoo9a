@@ -1,0 +1,19 @@
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+
+header, main, footer {
+    border: 3px dotted royalblue
+}
+
+header, footer {
+    height: 110px
+}
+
+main {
+    height: 800px;
+}

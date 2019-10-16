@@ -1,0 +1,25 @@
+#container {
+    width: 800px;
+    height: 400px;
+    border: 1px solid black;
+    display:flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+#box1 {
+     background-color: gold;
+}
+
+#box2 {
+    background: red;
+}
+
+#box3 {
+    background-color: orange;
+}
+#box1, #box2, #box3 {
+    width: 100px;
+    height: 100px;
+    border : 1px solid black;
+}

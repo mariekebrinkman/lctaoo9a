@@ -1,0 +1,11 @@
+li{
+font-family: 'Times New Roman', Times, serif;
+color: black;
+text-transform: uppercase;
+text-decoration: dimgrey
+}
+header,main,footer{
+    border: 1px dashed;
+    background-color: royalblue;
+    height: 80px
+}

@@ -1,0 +1,56 @@
+#containerEen {
+    box-shadow: 1px 1px 6px darkgreen;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 1px solid brown;
+}
+#containerTwee {
+    box-shadow: 2px 2px 12px blue;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 1px solid brown;
+}
+#containerDrie {
+    box-shadow: 3px 3px 18px red;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 1px solid brown;
+}
+
+#containerVier {
+    box-shadow: 4px 4px 24px black;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 1px solid brown;
+}
+#containerVijf {
+    box-shadow: 5px 5px 30px yellow;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 1px solid brown;
+}
+
+#containerZes {
+    box-shadow: 6px 6px 36px cyan;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 1px solid brown;
+}
+
+h3 {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+img {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 150px;
+    height: 120px;
+}

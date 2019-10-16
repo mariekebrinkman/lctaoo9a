@@ -1,0 +1,12 @@
+.container{
+box-shadow: 1px 1px 6px darkgreen;
+width: 100px;
+height: 100px;
+margin-top: 20p;
+}
+.littleColorbox{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    background-color: aquamarine;
+}

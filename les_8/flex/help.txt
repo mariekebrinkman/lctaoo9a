@@ -1,0 +1,4 @@
+
+display: flex
+flex-direction : row of column
+justify-content: flex-start, flex-end, center, space-between, space-around

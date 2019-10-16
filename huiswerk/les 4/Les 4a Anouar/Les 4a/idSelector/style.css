@@ -1,0 +1,33 @@
+.containerEen {
+    box-shadow: 5px 5px 6px palevioletred;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.containerTwee {
+    box-shadow: 3px 3px 6px violet;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.containerDrie {
+    box-shadow: 1px 1px 6px purple;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.littleColorBox {
+    box-shadow: 1px 1px 6px darkblue;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+img {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}

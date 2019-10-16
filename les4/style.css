@@ -1,0 +1,15 @@
+p {
+    background-color:blue;
+}
+
+#opdrachtId1 {
+    color:red;
+}
+
+.opdrachtClass {
+    width:100px;
+}
+
+#opdrachtId2 {
+    font-size:30px;
+}

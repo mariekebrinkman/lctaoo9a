@@ -1,0 +1,18 @@
+li {
+    font-family: fantasy;
+    color:darkcyan;
+    text-transform:lowercase;
+    text-decoration: underline;
+}
+
+header, main, footer {
+    border: 1px dotted royalblue;
+
+}
+
+header, footer {
+    height: 80px;
+}
+main {
+    height: 800px;
+}
